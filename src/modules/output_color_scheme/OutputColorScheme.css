@@ -1,0 +1,19 @@
+.colorSwatches {
+    background-color:#333;
+    padding:20px;
+    margin-top:20px;
+}
+
+.colorSwatch {
+    text-align:center;
+    line-height:100px;
+    vertical-align:bottom;
+}
+
+.colorSwatchLight {
+    color: #111111;
+}
+
+.colorSwatchDark {
+    color: #eeeeee;
+}

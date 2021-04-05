@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Name To Color Scheme",
+  "name": "Name To Color Scheme",
+  "description": "This week's theme was to take input and generate output in a different format. I made an application that will take some one's name and generate a color scheme based on it.",
   "icons": [
     {
       "src": "favicon.ico",
